@@ -8,6 +8,9 @@
 ![Supervised](https://img.shields.io/badge/Type-Supervised-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-yellowgreen.svg)
 
+![image](https://user-images.githubusercontent.com/88978849/209463790-aabfa5a1-83c7-4e86-976d-64824c41de04.png)
+
+
 # Dry Beans Dataset
 
 In this project different machine learning algorithms were used to classify the most well-known 7 types of beans in Turkey; Barbunya, Bombay, Cali, Dermason, Horoz, Seker and Sira, depending **ONLY** on dimension and shape features of bean varieties with no external discriminatory features.
