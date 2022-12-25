@@ -21,7 +21,7 @@ The dataset provided in this project is obtained from [UC-Irvine Machine Learnin
 - **Note**: The data is already splitted with 80% - 20% ratio to training and testing sets respectively, so a part of the data is already separated for final testing and will use the training set for train and validation.
 
 Data columns (total 17 columns):
- #   Column           Non-Null Count  Dtype  
+ id   Column           Non-Null Count  Dtype  
 ---  ------           --------------  -----  
  0   Area             10834 non-null  int64  
  1   Perimeter        10834 non-null  float64
