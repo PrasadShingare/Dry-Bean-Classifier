@@ -20,29 +20,6 @@ MLP, Xgboost, Catboost and LightGBM classifiers were trained and a final VotingC
 The dataset provided in this project is obtained from [UC-Irvine Machine Learning Repository - Dry Bean Dataset.](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset)
 - **Note**: The data is already splitted with 80% - 20% ratio to training and testing sets respectively, so a part of the data is already separated for final testing and will use the training set for train and validation.
 
-Data columns (total 17 columns):
-
- id   Column           Non-Null Count  Dtype  
- 
- 0   Area             10834 non-null  int64
- 
- 1   Perimeter        10834 non-null  float64
- 2   MajorAxisLength  10834 non-null  float64
- 3   MinorAxisLength  10834 non-null  float64
- 4   AspectRation     10834 non-null  float64
- 5   Eccentricity     10834 non-null  float64
- 6   ConvexArea       10834 non-null  int64  
- 7   EquivDiameter    10834 non-null  float64
- 8   Extent           10834 non-null  float64
- 9   Solidity         10834 non-null  float64
- 10  roundness        10834 non-null  float64
- 11  Compactness      10834 non-null  float64
- 12  ShapeFactor1     10834 non-null  float64
- 13  ShapeFactor2     10834 non-null  float64
- 14  ShapeFactor3     10834 non-null  float64
- 15  ShapeFactor4     10834 non-null  float64
- 16  y                10834 non-null  object 
-dtypes: float64(14), int64(2), object(1)
 
 ## Purpose
 The purpose of this project was to gain introductory exposure to Machine Learning Classification concepts along with data visualization. 
