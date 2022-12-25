@@ -23,7 +23,9 @@ The dataset provided in this project is obtained from [UC-Irvine Machine Learnin
 Data columns (total 17 columns):
 
  id   Column           Non-Null Count  Dtype  
- 0   Area             10834 non-null  int64  
+ 
+ 0   Area             10834 non-null  int64
+ 
  1   Perimeter        10834 non-null  float64
  2   MajorAxisLength  10834 non-null  float64
  3   MinorAxisLength  10834 non-null  float64
